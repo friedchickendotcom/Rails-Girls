@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'sqlite3'
+gem 'devise'
 gem 'carrierwave'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
